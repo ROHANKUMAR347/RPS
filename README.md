@@ -11,7 +11,7 @@ Options to reset the game and reset the player name.
 ##Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/rock-paper-scissors-game.git
+git clone https://github.com/ROHANKUMAR347/RPS.git
 Navigate to the project directory:
 cd rock-paper-scissors-game
 Open index.html in your preferred web browser.
